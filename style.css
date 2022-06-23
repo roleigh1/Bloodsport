@@ -1,0 +1,60 @@
+body{
+    font-family: 'Kanit', sans-serif;
+    background-color: burlywood;
+}
+nav{
+    
+    height:50px;
+    text-align: center;
+    word-spacing: 20px;
+    padding-top:1em; 
+    width: auto;
+}
+a {
+    font-size: 30px;
+    text-decoration: none;
+    color: black; 
+}
+
+    
+
+.banner h1 {
+    margin-top: 10%;
+    background-color: aquamarine ;
+    text-align: center; 
+}
+.motivation {
+    margin-top: 5em;
+    
+}
+.motivation h2 {
+    word-spacing: 10px;
+    color:yellow;
+    
+}
+p {
+    font-weight: bold;
+}
+.pics1{
+    display: flex;
+    justify-content: center;
+}
+.training {
+    width:30%; 
+    margin-left: auto;
+    margin-right: auto; 
+}
+.quote {
+    margin-top: 5em;
+    background-color:  aquamarine;
+     
+}
+#line {
+    position: relative;
+    bottom: 83%;
+}
+.location {
+    display: flex;
+    justify-content: center;
+}
+
