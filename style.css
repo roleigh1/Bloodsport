@@ -47,14 +47,32 @@ p {
 .quote {
     margin-top: 5em;
     background-color:  aquamarine;
+    opacity: 0.6;
      
 }
 #line {
     position: relative;
     bottom: 83%;
+    
 }
 .location {
     display: flex;
     justify-content: center;
+}
+.fun{
+    text-align: center;
+}
+.fun img {
+    width: 50%; 
+    margin: auto; 
+    height: auto; 
+    display: block; 
+    
+}
+@media only screen and (max-width:480px){
+    .pics1{
+        display: flex;
+        flex-direction: column;   
+     }
 }
 
